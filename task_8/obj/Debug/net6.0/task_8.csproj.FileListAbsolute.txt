@@ -1,0 +1,15 @@
+C:\GeekBrains\DZ C#\task_8\bin\Debug\net6.0\task_8.exe
+C:\GeekBrains\DZ C#\task_8\bin\Debug\net6.0\task_8.deps.json
+C:\GeekBrains\DZ C#\task_8\bin\Debug\net6.0\task_8.runtimeconfig.json
+C:\GeekBrains\DZ C#\task_8\bin\Debug\net6.0\task_8.dll
+C:\GeekBrains\DZ C#\task_8\bin\Debug\net6.0\task_8.pdb
+C:\GeekBrains\DZ C#\task_8\obj\Debug\net6.0\task_8.csproj.AssemblyReference.cache
+C:\GeekBrains\DZ C#\task_8\obj\Debug\net6.0\task_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\DZ C#\task_8\obj\Debug\net6.0\task_8.AssemblyInfoInputs.cache
+C:\GeekBrains\DZ C#\task_8\obj\Debug\net6.0\task_8.AssemblyInfo.cs
+C:\GeekBrains\DZ C#\task_8\obj\Debug\net6.0\task_8.csproj.CoreCompileInputs.cache
+C:\GeekBrains\DZ C#\task_8\obj\Debug\net6.0\task_8.dll
+C:\GeekBrains\DZ C#\task_8\obj\Debug\net6.0\refint\task_8.dll
+C:\GeekBrains\DZ C#\task_8\obj\Debug\net6.0\task_8.pdb
+C:\GeekBrains\DZ C#\task_8\obj\Debug\net6.0\task_8.genruntimeconfig.cache
+C:\GeekBrains\DZ C#\task_8\obj\Debug\net6.0\ref\task_8.dll
